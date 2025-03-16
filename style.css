@@ -65,9 +65,11 @@
   bottom: 0;
   left: 0;
   right: 0;
-  background-image: url(https://t3.ftcdn.net/jpg/01/75/24/04/240_F_175240428_HvY4qNU4rquSjBZOhZxwdtAGetjxvLd3.jpg);
+  background-image: url(./istockphoto-1455237784-612x612.jpg);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: 50%;
+  z-index: -1;
+  background-position: top center;
 }
 .image.yes::after {
   content: "";
@@ -76,9 +78,10 @@
   bottom: 0;
   left: 0;
   right: 0;
-  background-image: url(https://t3.ftcdn.net/jpg/01/75/24/04/240_F_175240428_HvY4qNU4rquSjBZOhZxwdtAGetjxvLd3.jpg);
+  background-image: url(./e968a0ecb7a4ba3101b0e2df6aa8819c.gif);
   background-repeat: no-repeat;
   background-size: contain;
+  background-position: bottom center;
 }
 .none {
   display: none;
