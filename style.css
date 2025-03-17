@@ -73,6 +73,16 @@
   height: 300px;
   background-position: center;
 }
+h1 {
+  font-size: 40px;
+  max-width: 300px;
+  margin: 0 auto;
+  padding-bottom: 8px;
+  text-align: center;
+  letter-spacing: 2px;
+  font-family: "Style Script", cursive;
+  color: #9f1010;
+}
 /* .image.yes::after {
   content: "";
   position: absolute;
@@ -84,19 +94,10 @@
   background-repeat: no-repeat;
   background-size: contain;
 } */
-.none {
-  display: none;
-}
-h1 {
-  font-size: 40px;
-  max-width: 300px;
-  margin: 0 auto;
-  padding-bottom: 8px;
-  text-align: center;
-  letter-spacing: 2px;
-  font-family: "Style Script", cursive;
-  color: #9f1010;
-}
+/* .none {
+/*   display: none; */
+} */
+
 /* .download-btn {
-  display: none;
+/*   display: none; */
 } */
